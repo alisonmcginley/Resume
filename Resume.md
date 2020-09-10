@@ -102,7 +102,6 @@
   <ul>
     <li>Participated in a weekly program called “Coffee & Conversation”, regularly meeting with residents of housing facilities, providing them with food while enjoying their company
     </li>
-
     <li>Lead weekly “jam sessions”, using my musical ability to facilitate a welcoming environment where residents can pick up any instrument they’d like, and have a grand ‘ol time!
     </li>
   </ul>
