@@ -1,11 +1,10 @@
-# Resume
-Resume
+
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 
 <head>
   <meta charset="utf-8">
-  <title></title>
+  <title> Alison McGinley Resume</title>
 </head>
 
 <body>
