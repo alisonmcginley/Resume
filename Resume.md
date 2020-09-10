@@ -16,7 +16,6 @@
 </head>
 
 <body>
-  <h1>Alison McGinley</h1>
   <h3>She/Her <br>
     (512) 777-9277 <br>
     alimcginley@gmail.com</h3>
