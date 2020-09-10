@@ -4,7 +4,6 @@
 
 <head>
   <meta charset="utf-8">
-  <title> Alison McGinley Resume</title>
 </head>
 
 <body>
