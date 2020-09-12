@@ -25,19 +25,20 @@
   <p><u>BFA in Songwriting, 2009</u> <br>
   <ul>
     <li>Comprehensive study of composition, music theory, music history, and performance development, as well as liberal arts</li>
+    <li>Mastered my primary instrument of Drumset</li>
   </ul>
   </p>
   <h3>Cascade Employers, Portland, OR</h3>
   <p><u>Human Resources & Employment Law Certification</u><br>
   <ul>
-    <li>In order to be an effective sole leader of a small business, I studied how to best create a sustainable, safe, and legally compliant workplace for all associates</li>
+    <li>Studied the technicalities of creating a sustainable, safe, and legally compliant workplace for all associates</li>
   </ul>
   </p>
   <h3>Independent Study, Seattle, WA</h3>
   <p><u>Ada Build Curriculum, 2020 <br>
       Various UDEMY Modules by Dr. Angela YU & Colt Steele</u>
   <ul>
-    <li>Understanding of HTML, grasp of CSS and external resources</li>
+    <li>Gained an understanding of HTML, grasp of CSS and external resources</li>
   </ul>
   </p>
   <br>
@@ -45,11 +46,12 @@
   <h3>The Charter Hotel, Seattle, WA</h3>
   <p><u>Director of Food and Beverage,</u> March 2019 - July 2020 <br>
   <ul>
-    <li>Oversaw all Food and Beverage outl ets of the hotel, including banquets, catering, in-room dining, full-service restaurant, and rooftop bar & lounge
+    <li>Oversaw all Food and Beverage outl ets of the hotel, including full-service restaurant, rooftop bar & lounge, banquets, catering, and in-room dining
     </li>
     <li>Responsible for all forecasting, budgeting, and financial performance
     </li>
     <li>Collaborated with Sales & Marketing team to create and implement revenue initiatives</li>
+    <li> Advocated for equitable hiring and diverse representation in our workforce </li>
   </ul>
   </p>
   <br>
@@ -65,7 +67,7 @@
   <h3>Ned Ludd & Elder Hall, Portland, OR</h3>
   <p><u>Director of Finance & Operations</u> November 2016 - May 2018 <br>
   <ul>
-    <li>Managed all food and beverage operations of Ned Ludd (a full-service restaurant) and Elder Hall (A full-service event space)
+    <li>Managed all food and beverage operations of Ned Ludd (a full-service restaurant) and Elder Hall (an event space)
     </li>
     <li>Oversaw all financial operations, including budgets, forecasts, P&Ls, payroll, reconciliation of accounts, and banking
     </li>
@@ -73,7 +75,7 @@
     </li>
     <li>Oversaw all human resources, promoting a safe, consistent, and positive work environment to increase employee retention
     </li>
-    <li>Implemented and coordinated healthcare benefits for all employees
+    <li>Implemented healthcare benefits, PTO, and Volunteer Pay for all employees
     </li>
     <li>Created employee manuals and accurate job descriptions
     </li>
@@ -83,7 +85,7 @@
   <h3>The Bent Brick, Portland, OR</h3>
   <p><u>Restaurant Manager</u> March 2015 - November 2016 <br>
   <ul>
-    <li>Lead a team of service and culinary professionals in delivering exceptional product and service in an upscale environment
+    <li>Led a team of service and culinary professionals in delivering exceptional product and service in an upscale environment
     </li>
   </ul>
 <br>
@@ -102,7 +104,7 @@
   <ul>
     <li>Participated in a weekly program called “Coffee & Conversation”, regularly meeting with residents of housing facilities, providing them with food while enjoying their company
     </li>
-    <li>Lead weekly “jam sessions”, using my musical ability to facilitate a welcoming environment where residents can pick up any instrument they’d like, and have a grand ‘ol time!
+    <li>Led weekly “jam sessions”, using my musical ability to facilitate a welcoming environment where residents can pick up any instrument they’d like, and have a grand ‘ol time!
     </li>
   </ul>
 
